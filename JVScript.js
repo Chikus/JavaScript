@@ -1,0 +1,1 @@
+alert('ejecutando archivo java script');
